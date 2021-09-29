@@ -9,3 +9,5 @@ Esse projeto foi conduzido para abordar as seguinte disciplinas:
 - Administração e Gerenciamento de Banco de Dados
 - Linguagens de Programação para Ciência de Dados
 - Preparação Pedagógica
+
+Fonte dos dados: https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/
